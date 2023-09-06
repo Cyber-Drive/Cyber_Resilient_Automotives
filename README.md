@@ -6,6 +6,8 @@
 
 ## Source: IEEE
 
+<img width="145" alt="image" src="https://github.com/Cyber-Drive/Cyber_Resilient_Automotives/assets/144287581/77b16a2a-e833-42ba-a3a2-db9ab20f0bbf">
+
 ## Course: CECS 574 Topics in Distributed Computing
 
 ## Instructor: Dr. Pooria Yaghini  
@@ -15,8 +17,6 @@
 ## CSULB
 
 ## Spring 2023
-
-<img width="145" alt="image" src="https://github.com/Cyber-Drive/Cyber_Resilient_Automotives/assets/144287581/77b16a2a-e833-42ba-a3a2-db9ab20f0bbf">
 
 ## Team Members:
 
