@@ -1,8 +1,4 @@
-# A Review on Blockchain Technologies for an Advanced and Cyber-Resilient Automotive Industry 
-
-## Authors: PAULA FRAGA-LAMAS (Member, IEEE) and TIAGO M. FERNÁNDEZ-CARAMÉS (Senior Member, IEEE)
-
-## Date of Publication: January 25, 2019
+# A Review on Blockchain Technologies for Cyber-Resilient Automotives 
 
 ## Source: IEEE
 
