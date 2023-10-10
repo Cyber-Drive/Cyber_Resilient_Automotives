@@ -10,7 +10,7 @@
 
 ## CSULB
 
-## Spring 2023
+## Fall 2023
 
 ## Team Members:
 
