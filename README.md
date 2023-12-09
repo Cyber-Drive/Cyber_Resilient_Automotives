@@ -1,8 +1,6 @@
 # A Review on Blockchain Technologies for Cyber-Resilient Automotive's
 
-<div style="text-align: center;">
 <img width="145" alt="image" src="https://github.com/Cyber-Drive/Cyber_Resilient_Automotives/assets/144287581/77b16a2a-e833-42ba-a3a2-db9ab20f0bbf">
-</div>
 
 ### Details: 
 1. Course: CECS 574 Topics in Distributed Computing
@@ -11,10 +9,10 @@
 4. CSULB - Fall 2023
 
 ### Team Members:
-1. Delicia Fernandes (030696482) - deliciadomnic.fernandes01@student.csulb.edu
+1. Prerana Cheguru (029394415) - prerana.cheguru01@student.csulb.edu
 2. Vaishnavi Rao (029412966) - vaishnavi.rao01@student.csulb.edu
-3. Sharani Regonda (030735066) -sharani.regonda01@student.csulb.edu
-4. Prerana Cheguru (029394415) - prerana.cheguru01@student.csulb.edu
+3. Delicia Fernandes (030696482) - deliciadomnic.fernandes01@student.csulb.edu
+4. Sharani Regonda (030735066) - sharani.regonda01@student.csulb.edu
 
 ### Abstract:
 As automotive technologies evolve to include advanced connectivity, automation, and electrification, cybersecurity threats pose greater risks that can undermine safety. While current automotive architectures implement cybersecurity controls, additional assurance is required to ensure cyber resilience, especially with increasing integration with the Internet of Things (IoT). Blockchain has emerged as a decentralized approach to developing trustworthy distributed systems resilient to cyber-attacks. This paper reviews blockchain platforms and protocols for enabling cyber-resilient automotive solutions within the context of Intelligent Transportation Systems (ITS). We analyze key blockchain properties including consensus algorithms, smart contracts, access controls, and privacy mechanisms. We also examine blockchain projects aimed at the automotive industry for vehicle-to-everything (V2X) communications, electric vehicle charging, and autonomous transactions.
