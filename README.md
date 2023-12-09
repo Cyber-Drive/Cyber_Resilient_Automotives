@@ -2,17 +2,17 @@
 
 <img width="145" alt="image" src="https://github.com/Cyber-Drive/Cyber_Resilient_Automotives/assets/144287581/77b16a2a-e833-42ba-a3a2-db9ab20f0bbf">
 
-## Course: CECS 574 Topics in Distributed Computing
+### Course: CECS 574 Topics in Distributed Computing
 
-## Instructor: Dr. Pooria Yaghini  
+### Instructor: Dr. Pooria Yaghini  
 
-## Computer Engineering and Computer Science Department
+### Computer Engineering and Computer Science Department
 
-## CSULB
+### CSULB
 
-## Fall 2023
+### Fall 2023
 
-## Team Members:
+### Team Members:
 
 ### Prerana Cheguru
 ### 029394415
